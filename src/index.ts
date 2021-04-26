@@ -1,3 +1,3 @@
-import ReactAnimatedHeadline from "./ReactAnimatedHeadline";
+import ReactAnimatedHeadline from './components';
 
 export { ReactAnimatedHeadline };
